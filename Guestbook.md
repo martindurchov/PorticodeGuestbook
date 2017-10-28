@@ -5,6 +5,7 @@ This is my first pull request :octocat:!
 ---
 
 * [Pandelis Zembashis :panda_face:](http://twitter.com/pandelisz)
+* [jelly bean :](https://www.jellybelly.co.uk)
 * [kimia] hates the github API (https://github.com/kimia84)
 * [Amy Czep](http://twitter.com/PotatoKingYoko)
 * [Eloïse](https://github.com/eloisejohnston)
@@ -25,3 +26,4 @@ This is my first pull request :octocat:!
 * [Nabil Belahouane;](http://twitter.com/FakeDealNabil)
 * [Abdul Hates the GitHub API 😢 ](http://twitter.com/abdulajet)
 * [Amy!](https://i.ytimg.com/vi/JalVHgKqBXs/maxresdefault.jpg)
+
