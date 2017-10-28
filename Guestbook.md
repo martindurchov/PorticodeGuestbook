@@ -5,6 +5,7 @@ This is my first pull request :octocat:!
 ---
 
 * [Pandelis Zembashis :panda_face:](http://twitter.com/pandelisz)
+* [Amy Czep](http://twitter.com/PotatoKingYoko)
 * [Eloïse](https://github.com/eloisejohnston)
 * [Daisy](a_link_where_you_can_find_me)
 * ergopjergpojergporjgeor
