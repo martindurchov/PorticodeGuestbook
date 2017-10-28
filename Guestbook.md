@@ -14,10 +14,10 @@ This is my first pull request :octocat:!
 * ergopjergpojergporjgeor
 * [Shirin](https://github.com/shirinhar)
 * [Candice Hughes🎃](http://youtube.com)
-* [Ksenia[ (https://github.com/kseniapavlina)
+* [Ksenia](https://github.com/kseniapavlina)
 * [pds0711 :octocat: :octocat: :octocat: :octocat: :octocat: :octocat:] (https://twitter.com/PhilippSiedler)
 * [Gassan Abdulrazek](https://www.facebook.com/ghassan1998)
-* [Daniel McKinley :octocat:] (http://twitter.com/DanielMcKinley8)
+* [Daniel McKinley :octocat:](http://twitter.com/DanielMcKinley8)
 * [help me:](https://github.com/) 
 * [hello](http://twitter.com/tzengbless)
 * [Tan says hi](http://twitter.com/tzengbless)
