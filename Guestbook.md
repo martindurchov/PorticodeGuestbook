@@ -4,7 +4,6 @@ This is my first pull request :octocat:!
 
 ---
 
-* [Pandelis Zembashis :panda_face:](http://twitter.com/pandelisz)
 * [Yiannis Simillides :panda_face:](https://twitter.com/YSimillides)
 * [Ken Yew](https://www.metacritic.com)
 * [jelly bean :](https://www.jellybelly.co.uk)
@@ -21,10 +20,7 @@ This is my first pull request :octocat:!
 * [Daniel McKinley :octocat:] (http://twitter.com/DanielMcKinley8)
 * [help me:](https://github.com/) 
 * [hello](http://twitter.com/tzengbless)
-* [Abdul Hates the GitHub API 😢 ](http://twitter.com/abdulajet)
 * [Tan says hi](http://twitter.com/tzengbless)
-* [Abdul Hates the GitHub API 😢 ](http://twitter.com/abdulajet)
 * [Pooja](http://twitter.com/whoamitbh)
 * [Nabil Belahouane;](http://twitter.com/FakeDealNabil)
-* [Abdul Hates the GitHub API 😢 ](http://twitter.com/abdulajet)
 * [Amy!](https://i.ytimg.com/vi/JalVHgKqBXs/maxresdefault.jpg)
