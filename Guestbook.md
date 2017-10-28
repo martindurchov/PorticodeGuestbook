@@ -5,6 +5,7 @@ This is my first pull request :octocat:!
 ---
 
 * [Pandelis Zembashis :panda_face:](http://twitter.com/pandelisz)
+* [pds0711 :octocat: :octocat: :octocat: :octocat: :octocat: :octocat:] (https://twitter.com/PhilippSiedler)
 * [Gassan Abdulrazek](https://www.facebook.com/ghassan1998)
 * [Daniel McKinley :octocat:] (http://twitter.com/DanielMcKinley8)
 *[help me:](https://github.com/) 
